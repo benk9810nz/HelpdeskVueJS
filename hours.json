@@ -1,17 +1,14 @@
-{
-  "121212": {
-    "FirstName": "Nick",
-    "LastName": "Jones",
-    "Hours": "50"
-  },
-  "123456": {
-    "FirstName": "Holly",
-    "LastName": "Johnson",
-    "Hours": "20"
-  },
-  "2014006529": {
-    "FirstName": "Ben",
-    "LastName": "King",
-    "Hours": "2"
-  }
-}
+[
+	{
+		"ID": 2014006529,
+		"FName": "Ben",
+		"LName": "King",
+		"Hours": 20
+	},
+	{
+		"ID": 123456,
+		"FName": "Nick",
+		"LName": "Jones",
+		"Hours": 10
+	}
+]
