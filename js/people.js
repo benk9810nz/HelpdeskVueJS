@@ -2,7 +2,7 @@ new Vue({
     el: '#app',
     data: {
     people: null,
-    selected: 0,
+    selected: 0
     },
     mounted: function() {
     axios.get(

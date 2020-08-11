@@ -44,12 +44,14 @@
 	<br>
 	<h4 class="text-center">Please Select Your Student ID from the dropdown to see your Hours</h4>
 	<div id="app">
-		<select v-model="selected">
-			<option value="0" disabled selected="selected">
-				Select your Student ID</option>
-			<option v-for="p in people" v-bind:value="p">
-				{{p.studentId}}</option>
-		</select>
+		<div class="text-center mx-auto">
+			<select v-model="selected">
+				<option value="0" disabled selected="selected">
+					Select your Student ID</option>
+				<option v-for="p in people" v-bind:value="p">
+					{{p.studentId}}</option>
+			</select>
+		</div>
 		<br> <br>
 		<div class="table-responsive">
 			<table class="table table-bordered table-hover table-striped table-light">
@@ -89,28 +91,31 @@
 		</div>
 		<div class="column mx-auto">
 			<h4>Cafe</h4>
-			<a href="src/cafe.png" target="_blank"><img src="src/cafe.png" class="img img-fluid img-thumbnail" alt="Cafe Timetable July"></a>
+			<a href="src/cafe.png" target="_blank"><img src="src/cafe.png" class="img img-fluid img-thumbnail"
+					alt="Cafe Timetable July"></a>
 		</div>
 	</div>
+	<p class="text-center text-muted">Click the images to enlarge</p>
+	<hr>
 	<div class="footer text-center">
-				<p>If you have any questions/concerns please see the appropiate Helpdesk Leader:</p>
-				<ul>
-					<li>Library - <a href="mailto:2014006529@student.sit.ac.nz">Ben (Click to Email)</a></li>
-					<li>Cafe - <a href="mailto:2018001777@student.sit.ac.nz">Holly (Click to Email)</a></li>
-				</ul>
+		<p>If you have any questions/concerns please see the appropiate Helpdesk Leader:</p>
+		<ul>
+			<li>Library - <a href="mailto:2014006529@student.sit.ac.nz">Ben (Click to Email)</a></li>
+			<li>Cafe - <a href="mailto:2018001777@student.sit.ac.nz">Holly (Click to Email)</a></li>
+		</ul>
 	</div>
-		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.js"></script>
-		<script src="js/people.js"></script>
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-			crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-			integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-			crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-			crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.js"></script>
+	<script src="js/people.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+		integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+		crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+		crossorigin="anonymous"></script>
 </body>
 
 </html>
