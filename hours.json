@@ -1,12 +1,12 @@
 [
   {
-    "sid": "123456",
+    "studentidd": "123456",
     "name": "Ben King",
-    "Hours": "3"
+    "hours": "3"
   },
   {
-    "sid": "12345632",
+    "studentidd": "12345632",
     "name": "Nick Jones",
-    "Hours": "21"
+    "hours": "21"
   }
 ]
