@@ -1,23 +1,23 @@
 [
   {
     "studentId": "2014006529",
-	"fName" : "Ben"
+    "fName": "Ben",
     "lName": "King",
     "hours": "30",
-	"location" : "Library"
+    "location": "Library"
   },
   {
     "studentId": "2018001731",
-	"fName" : "Jayekib"
+    "fName": "Jayekib",
     "lName": "den Dulk",
     "hours": "3",
-	"location" : "Library"
+    "location": "Library"
   },
   {
     "studentId": "2018001529",
-	"fName" : "Rafito"
+    "fName": "Rafito",
     "lName": "IDK",
     "hours": "10",
-	"location" : "Library"
+    "location": "Library"
   }
 ]
