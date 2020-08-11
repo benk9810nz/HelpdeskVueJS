@@ -1,12 +1,23 @@
 [
   {
-    "studentidd": "123456",
-    "name": "Ben King",
-    "hours": "3"
+    "studentId": "2014006529",
+	"fName" : "Ben"
+    "lName": "King",
+    "hours": "30",
+	"location" : "Library"
   },
   {
-    "studentidd": "12345632",
-    "name": "Nick Jones",
-    "hours": "21"
+    "studentId": "2018001731",
+	"fName" : "Jayekib"
+    "lName": "den Dulk",
+    "hours": "3",
+	"location" : "Library"
+  },
+  {
+    "studentId": "2018001529",
+	"fName" : "Rafito"
+    "lName": "IDK",
+    "hours": "10",
+	"location" : "Library"
   }
 ]
