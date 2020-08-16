@@ -82,5 +82,103 @@
 	"lName": "Chen",
 	"hours": "14",
 	"location" : "Library"
-  }  
+  },
+  {
+	"studentID":"800795",
+	"fName" : "Ricardo",
+	"lName": "Katon",
+	"hours": "4",
+	"location" : "Cafe"
+},
+{
+	"studentID":"800987",
+	"fName" : "Sharmaine",
+	"lName": "Rufford",
+	"hours": "12",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2014001988",
+	"fName" : "Henry",
+	"lName": "Sly",
+	"hours": "12",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2017003399",
+	"fName" : "Shawn",
+	"lName": "Chen",
+	"hours": "18",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2017008700",
+	"fName" : "Juliana",
+	"lName": "Tan",
+	"hours": "14",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2017010404",
+	"fName" : "Dana",
+	"lName": "Qi",
+	"hours": "16",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2018001530",
+	"fName" : "Stephen",
+	"lName": "Lung",
+	"hours": "12",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2018001931",
+	"fName" : "Carl",
+	"lName": "Li",
+	"hours": "12",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2018002373",
+	"fName" : "Ted",
+	"lName": "Higgins",
+	"hours": "6",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2018008452",
+	"fName" : "Jacob",
+	"lName": "Su",
+	"hours": "6",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2018008894",
+	"fName" : "William",
+	"lName": "Edwin",
+	"hours": "12",
+	"location" : "Library/Cafe"
+},
+{
+	"studentID":"2019000222",
+	"fName" : "Nikolai",
+	"lName": "Kedrinski",
+	"hours": "12",
+	"location" : "Cafe"
+},
+{
+	"studentID":"2019006744",
+	"fName" : "Yanfeng",
+	"lName": "Liu",
+	"hours": "4",
+	"location" : "Library/Cafe"
+},
+{
+	"studentID":"2019011874",
+	"fName" : "Zongyuan",
+	"lName": "Li",
+	"hours": "0",
+	"location" : "Cafe"
+}
 ]
