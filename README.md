@@ -14,4 +14,4 @@ A student can see their Current Hours (updated every Friday), by selecting their
 
 To allow the other Helpdesk Leader to update the information for the students in their location (Cafe), I have shared this GitHub and added them as a collaborative, allowing them to update their Timetable Image, and Update the JSON File.
 
-
+The finished Website can be viewed at https://benk9810nz.github.io/HelpdeskVueJS/
