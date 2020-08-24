@@ -180,5 +180,12 @@
 	"lName": "Li",
 	"hours": "0",
 	"location" : "Cafe"
+},
+{
+	"studentId":"2017010470",
+	"fName" : "Ivy",
+	"lName": "Li",
+	"hours": "14",
+	"location" : "Cafe"
 }
 ]
