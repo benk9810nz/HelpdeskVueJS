@@ -87,21 +87,21 @@
 	"studentId":"800795",
 	"fName" : "Ricardo",
 	"lName": "Katon",
-	"hours": "8",
+	"hours": "10",
 	"location" : "Cafe"
 },
 {
 	"studentId":"800987",
 	"fName" : "Sharmaine",
 	"lName": "Rufford",
-	"hours": "14",
+	"hours": "16",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2014001988",
 	"fName" : "Henry",
 	"lName": "Sly",
-	"hours": "12",
+	"hours": "14",
 	"location" : "Cafe"
 },
 {
@@ -115,42 +115,42 @@
 	"studentId":"2017008700",
 	"fName" : "Juliana",
 	"lName": "Tan",
-	"hours": "16",
+	"hours": "20",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2017010404",
 	"fName" : "Dana",
 	"lName": "Qi",
-	"hours": "20",
+	"hours": "22",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2018001530",
 	"fName" : "Stephen",
 	"lName": "Lung",
-	"hours": "14",
+	"hours": "16",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2018001931",
 	"fName" : "Carl",
 	"lName": "Li",
-	"hours": "18",
+	"hours": "20",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2018002373",
 	"fName" : "Ted",
 	"lName": "Higgins",
-	"hours": "8",
+	"hours": "16",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2018008452",
 	"fName" : "Jacob",
 	"lName": "Su",
-	"hours": "8",
+	"hours": "10",
 	"location" : "Cafe"
 },
 {
@@ -164,7 +164,7 @@
 	"studentId":"2019000222",
 	"fName" : "Nikolai",
 	"lName": "Kedrinski",
-	"hours": "14",
+	"hours": "18",
 	"location" : "Cafe"
 },
 {
@@ -178,14 +178,14 @@
 	"studentId":"2019011874",
 	"fName" : "Zongyuan",
 	"lName": "Li",
-	"hours": "4",
+	"hours": "8",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2017010470",
 	"fName" : "Ivy",
 	"lName": "Li",
-	"hours": "14",
+	"hours": "16",
 	"location" : "Cafe"
 }
 ]
