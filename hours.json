@@ -3,7 +3,7 @@
 	"studentId": "2020001533",
 	"fName" : "Ajith",
 	"lName": "Pulickal_Abilash",
-	"hours": "16",
+	"hours": "20",
 	"location" : "Library"
   },
   {
@@ -24,7 +24,7 @@
     "studentId": "2015011810",
 	"fName" : "David",
 	"lName": "Pan",
-	"hours": "22",
+	"hours": "30",
 	"location" : "Library"
   },
   {
@@ -38,35 +38,35 @@
     "studentId": "2018001731",
 	"fName" : "Jayekib",
 	"lName": "den_Dulk",
-	"hours": "20",
+	"hours": "24",
 	"location" : "Library & Cafe"
   },
   {
     "studentId": "2018001529",
 	"fName" : "Rafito",
 	"lName": "Putra_Priesa",
-	"hours": "22",
+	"hours": "26",
 	"location" : "Library"
   },
   {
     "studentId": "2019003655",
 	"fName" : "Ryan",
 	"lName": "Xu",
-	"hours": "10",
+	"hours": "12",
 	"location" : "Library"
   },
   {
     "studentId": "2014006531",
 	"fName" : "Thomas",
 	"lName": "Marshall",
-	"hours": "17",
+	"hours": "21",
 	"location" : "Library"
   },
   {
     "studentId": "2020001250",
 	"fName" : "Vineeth",
 	"lName": "Eranapully_Sreedharan",
-	"hours": "20",
+	"hours": "26",
 	"location" : "Library"
   },
   {
@@ -150,7 +150,7 @@
 	"studentId":"2018008894",
 	"fName" : "William",
 	"lName": "Edwin",
-	"hours": "22",
+	"hours": "26",
 	"location" : "Library/Cafe"
 },
 {
@@ -164,7 +164,7 @@
 	"studentId":"2019006744",
 	"fName" : "Yanfeng",
 	"lName": "Liu",
-	"hours": "14",
+	"hours": "18",
 	"location" : "Library/Cafe"
 },
 {
