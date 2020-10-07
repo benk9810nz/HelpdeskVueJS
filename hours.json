@@ -66,7 +66,11 @@
     "studentId": "2020001250",
 	"fName" : "Vineeth",
 	"lName": "Eranapully_Sreedharan",
+<<<<<<< Updated upstream
 	"hours": "26",
+=======
+	"hours": "24",
+>>>>>>> Stashed changes
 	"location" : "Library"
   },
   {
