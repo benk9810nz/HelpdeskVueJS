@@ -3,7 +3,7 @@
 	"studentId": "2020001533",
 	"fName" : "Ajith",
 	"lName": "Pulickal_Abilash",
-	"hours": "24",
+	"hours": "26",
 	"location" : "Library"
   },
   {
@@ -31,35 +31,35 @@
     "studentId": "2018001983",
 	"fName" : "Dylan",
 	"lName": "Thompson",
-	"hours": "24",
+	"hours": "30",
 	"location" : "Library"
   },
   {
     "studentId": "2018001731",
 	"fName" : "Jayekib",
 	"lName": "den_Dulk",
-	"hours": "28",
+	"hours": "30",
 	"location" : "Library & Cafe"
   },
   {
     "studentId": "2018001529",
 	"fName" : "Rafito",
 	"lName": "Putra_Priesa",
-	"hours": "26",
+	"hours": "30",
 	"location" : "Library"
   },
   {
     "studentId": "2019003655",
 	"fName" : "Ryan",
 	"lName": "Xu",
-	"hours": "14",
+	"hours": "24",
 	"location" : "Library"
   },
   {
     "studentId": "2014006531",
 	"fName" : "Thomas",
 	"lName": "Marshall",
-	"hours": "26",
+	"hours": "30",
 	"location" : "Library"
   },
   {
@@ -164,7 +164,7 @@
 	"studentId":"2019006744",
 	"fName" : "Yanfeng",
 	"lName": "Liu",
-	"hours": "24",
+	"hours": "30",
 	"location" : "Library/Cafe"
 },
 {
