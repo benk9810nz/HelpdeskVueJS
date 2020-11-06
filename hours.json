@@ -80,21 +80,21 @@
 	"studentId":"800795",
 	"fName" : "Ricardo",
 	"lName": "Katon",
-	"hours": "26",
+	"hours": "30",
 	"location" : "Cafe"
 },
 {
 	"studentId":"800987",
 	"fName" : "Sharmaine",
 	"lName": "Rufford",
-	"hours": "26",
+	"hours": "30",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2014001988",
 	"fName" : "Henry",
 	"lName": "Sly",
-	"hours": "28",
+	"hours": "30",
 	"location" : "Cafe"
 },
 {
@@ -122,14 +122,14 @@
 	"studentId":"2018001530",
 	"fName" : "Stephen",
 	"lName": "Lung",
-	"hours": "32",
+	"hours": "34",
 	"location" : "Cafe"
 },
 {
 	"studentId":"2018001931",
 	"fName" : "Carl",
 	"lName": "Li",
-	"hours": "30",
+	"hours": "32",
 	"location" : "Cafe"
 },
 {
@@ -157,7 +157,7 @@
 	"studentId":"2019000222",
 	"fName" : "Nikolai",
 	"lName": "Kedrinski",
-	"hours": "28",
+	"hours": "32",
 	"location" : "Cafe"
 },
 {
@@ -178,7 +178,7 @@
 	"studentId":"2017010470",
 	"fName" : "Ivy",
 	"lName": "Li",
-	"hours": "28",
+	"hours": "30",
 	"location" : "Cafe"
 }
 ]
